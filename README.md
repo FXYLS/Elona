@@ -1,12 +1,12 @@
 # Elona
 
 软件：
-  1.LayaAir IDE 1.0
-  2.Tiled Map 0.16
-  3.Photoshop
-  4.TexturePackage
+  1.LayaAir IDE 1.0 <br>
+  2.Tiled Map 0.16 <br>
+  3.Photoshop <br>
+  4.TexturePackage <br>
 
 语言:
-  1.JavaScript
+  1.JavaScript <br>
 
 
